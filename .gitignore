@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+
+# Large binary files (PDFs, images)
+*.pdf
+*.png
